@@ -28,10 +28,7 @@ def get_digit_sum(init, number):
 
 
 def solve(number):
-    print(get_num(number))
-
     return get_digit_sum(0, get_num(number))
 
 
 print(solve(100))
-print (int(511.9//10))
