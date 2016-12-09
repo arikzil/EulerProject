@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cppSolutions.dir/main.cpp.o CMakeFiles/cppSolutions.dir/solution.cpp.o  -o cppSolutions 

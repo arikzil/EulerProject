@@ -1,0 +1,4 @@
+/home/arikzil/Desktop/clion-2016.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/arikzil/Desktop/projects/Euler/cppSolutions
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/arikzil/Desktop/projects/Euler/cppSolutions/cmake-build-debug

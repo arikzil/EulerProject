@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arikzil/Desktop/projects/Euler/cppSolutions/main.cpp
+iostream
+-
+solution.h
+/home/arikzil/Desktop/projects/Euler/cppSolutions/solution.h
+
+/home/arikzil/Desktop/projects/Euler/cppSolutions/solution.cpp
+solution.h
+/home/arikzil/Desktop/projects/Euler/cppSolutions/solution.h
+
+/home/arikzil/Desktop/projects/Euler/cppSolutions/solution.h
+iostream
+-
+
